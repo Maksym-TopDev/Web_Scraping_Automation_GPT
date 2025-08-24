@@ -18,7 +18,7 @@ Continually, redistribution of proprietary data gathered through web scraping fo
 ## Installation
 
 1. **Clone the Repository:**
-   git clone https://github.com/DOGBALLGNOSIS/autoScraper.git
+   git clone https://github.com/Maksym-TopDev/Web_Scraping_Automation_GPT.git
 
 2: **Install Dependencies:**
     pip install -r requirements.txt
